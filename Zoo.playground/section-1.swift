@@ -18,7 +18,7 @@ class zoo {
     }
     
 }
-let zoo1 = zoo(animal: "cony")
+let zoo1 = zoo(animal: "giraffe")
 zoo1.ZooZoo()
 
 
